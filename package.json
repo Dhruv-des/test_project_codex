@@ -1,0 +1,10 @@
+{
+  "name": "mindmap-site",
+  "version": "1.0.0",
+  "description": "Radial mind map website",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "dependencies": {}
+}

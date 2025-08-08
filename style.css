@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+}
+
+#mindmap {
+  width: 100vw;
+  height: 100vh;
+}
+
+.node circle {
+  cursor: pointer;
+  stroke: #555;
+  stroke-width: 1px;
+}
+
+.node text {
+  font-size: 12px;
+  pointer-events: none;
+}
